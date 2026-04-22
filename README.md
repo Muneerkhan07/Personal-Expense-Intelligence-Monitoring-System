@@ -44,7 +44,7 @@ CSV Data → SQL Server → Python Data Analysis → Power BI Visualization Dash
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Personal-Expense-Intelligence-System/Screenshots/dashboard.png)
 
 ## Outcome
 
