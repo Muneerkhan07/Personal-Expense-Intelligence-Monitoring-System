@@ -1,7 +1,7 @@
 # Personal Expense Intelligence & Monitoring System
 
 ## Overview
-
+ 
 The Personal Expense Intelligence & Monitoring System is a data analytics project designed to monitor, analyze, and visualize personal spending behavior using SQL Server, Python, and Power BI.
 
 The system helps identify high-expense categories, track monthly spending trends, and generate actionable financial insights to support better financial decision-making.
