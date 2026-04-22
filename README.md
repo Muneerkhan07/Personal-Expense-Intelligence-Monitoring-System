@@ -44,8 +44,8 @@ CSV Data → SQL Server → Python Data Analysis → Power BI Visualization Dash
 
 ## Dashboard Preview
 
-<img width="1200" height="675" alt="Dashboard Preview" src="C:\Users\Muneer Khan\OneDrive\Desktop\Personal-Expense-Intelligence-System\Screenshots\dashboard.png">
 
+<img width="1200" height="675" alt="Dashboard Preview" src="screenshots/dashboard.png">
 ---
 
 ## Outcome
