@@ -1,4 +1,4 @@
-# Personal Expense Intelligence & Monitoring System
+# Personal Expense Monitoring Dashboard
 
 ## Overview
  
